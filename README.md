@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ishita-duggal
 - 👀 I’m interested in Artificial Intelligence, Machine Learning, Software and Web development
-- 🌱 I’m currently pursuing B.Tech CSE (1st year)
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently pursuing a Bechelor's in Computer Science Engineering (2nd year)
+- 💞️ I’m looking to collaborate on AI/ML and Web development projects
 - 📫 How to reach me: Ishitaduggal@gmail.com
 - ⚡ Fun fact: I'm a musician
 
